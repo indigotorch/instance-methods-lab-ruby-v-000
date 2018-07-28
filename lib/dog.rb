@@ -4,7 +4,11 @@ class Dog #define class
   def bark
     puts "Woof!"
   end
+  
 
+  def sit
+    puts "The Dog is sitting."
+end
 end
 
 #def new instance, act on it
@@ -12,3 +16,4 @@ end
 fluff = Dog.new
 
 fluff.bark
+fluff.sit
