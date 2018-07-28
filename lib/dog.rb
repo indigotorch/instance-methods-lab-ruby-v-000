@@ -11,9 +11,4 @@ class Dog #define class
 end
 end
 
-#def new instance, act on it
 
-fluff = Dog.new
-
-fluff.bark
-fluff.sit
